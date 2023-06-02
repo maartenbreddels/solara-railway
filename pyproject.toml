@@ -5,7 +5,7 @@ build-backend = "flit_core.buildapi"
 
 
 [project]
-name = "solara-railway"
+name = "solara_railway"
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
